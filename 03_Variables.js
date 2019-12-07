@@ -1,2 +1,2 @@
-var bucky = 32;
-document.write(bucky);
+var variable = 32;
+document.write(variable);
