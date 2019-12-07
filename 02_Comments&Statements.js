@@ -2,5 +2,5 @@
 
 /* This is a multi-line comment */
 
-document.write("i love ham");
-document.write("and i love bacon too");
+document.write("i love javascripting ");
+document.write("and i love coding too");

@@ -2,6 +2,6 @@ function meatball(x) {
 	alert("I love " + x);
 }
 
-meatball("bacon");
-meatball("Natalie Protman");
-meatball("Good Will Hunting");
+meatball("DOSA");
+meatball("Malasa Uttapam");
+meatball("VADA");
